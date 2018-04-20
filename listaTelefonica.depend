@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1523208053 source:c:\users\thiago\desktop\listatelefonica\listatelefonica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaTelefonica.h"
+
+1523208053 c:\users\thiago\desktop\listatelefonica\listatelefonica.h
+
+1523208053 source:c:\users\thiago\desktop\listatelefonica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaTelefonica.h"
+
+1523472246 source:c:\users\thiago\desktop\cc\2º ano\estrutura de dados\listatelefonica\listatelefonica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaTelefonica.h"
+
+1523494365 c:\users\thiago\desktop\cc\2º ano\estrutura de dados\listatelefonica\listatelefonica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1523475097 source:c:\users\thiago\desktop\cc\2º ano\estrutura de dados\listatelefonica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaTelefonica.h"
+
+1523472246 source:c:\users\thiago\google drive\faculdade\2º ano\estrutura de dados\listatelefonica\listatelefonica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaTelefonica.h"
+
+1523494365 c:\users\thiago\google drive\faculdade\2º ano\estrutura de dados\listatelefonica\listatelefonica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1523494538 source:c:\users\thiago\google drive\faculdade\2º ano\estrutura de dados\listatelefonica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaTelefonica.h"
+
